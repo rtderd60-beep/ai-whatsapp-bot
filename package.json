@@ -1,0 +1,9 @@
+{
+  "name": "ai-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "AI WhatsApp Bot with video download capability",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "start": "npm run dev"
+  }
+}
